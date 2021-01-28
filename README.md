@@ -1,10 +1,10 @@
-# extractor_ine
-Extractor de datos del Instituto Nacional de Estadística
+*Autor: Daniel Sánchez Rodríguez*
+### Extractor INE con API
 
-En este código se ejemplifica cómo descargar datos del Instituto Nacional de Estadística (INE) mediante su API.
+Este código es un ejemplo de cómo descargar series de datos utilizando la API de la que dispone el **Instituto Nacional de Estadística (INE)**.
 
-El código está programado en Python y la explicación del código se puede ver en daniel-sanchez.net/2020/10/20/extraccion_datos_ine_api/
+Se utiliza **Python** para programarlo y toma como input los códigos que se introducen previamente en el archivo excel ine_codes.xlsx para a posterior dar salida a los datos en la tabla tabla_ine.xlsx.
 
+La explicación del desarrollo del código se encuentra en: [daniel-sanchez.net/2020/10/20/extraccion_datos_ine_api/](daniel-sanchez.net/2020/10/20/extraccion_datos_ine_api/)
 
-
-<img src="https://www.ine.es/menus/_b/img/logoINE.gif" width="500"/>
+![](https://www.ine.es/menus/_b/img/logoINE.gif)
